@@ -8,3 +8,8 @@ and improving my technical skills.
 
 My goal is to become a good programmer
 and develop useful applications.
+flowchart TD
+    A[Start] --> B[Learn Programming]
+    B --> C[Practice C#]
+    C --> D[Build Projects]
+    D --> E[Become a Programmer]
